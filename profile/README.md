@@ -17,6 +17,7 @@
 
 ## 🎬 시연 영상
 
+[![이미지](https://github.com/Merge-co/.github/assets/137472733/72c2cba9-3c68-4d0f-904f-026ef0dd4d69)](https://ablaze-whip-a5f.notion.site/Oiljang-b533cbc5428345b8bfb1de718f4a9776?pvs=4)
 
 </br>
 
