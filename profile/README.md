@@ -4,8 +4,6 @@
 
 </div>
 
-<hr>
-
 <p align="center">
   <img src="https://github.com/Merge-co/.github/assets/137472733/1ddc1da6-1bb3-4a6a-bec1-10cb49afa57a" alt="LOGO-2.1">
 </p>
@@ -68,23 +66,23 @@
 ## 🔧 기술 스택
 
 
-> Backend
+> Backend <br/>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <br/>
 	
-> Frontend
+> Frontend <br/>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javasceipt&logoColor=white"/> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><br/>
 	
-> Database
+> Database <br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><br/>
 	
-> Server
+> Server <br/>
         <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/> <br/>
 	
-> Development Tools
+> Development Tools <br/>
         <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <br/>
 
