@@ -67,16 +67,16 @@
 
 ## 🔧 기술 스택
 
-> BackEnd
+> BackEnd </br>
 Java springboot  
 
-> FrontEnd
+> FrontEnd </br>
 JavaScript ReactNative
 
-> Communication
+> Communication </br>
 Notion 
 
-Environment
+> Environment </br>
 
 
 <!--
