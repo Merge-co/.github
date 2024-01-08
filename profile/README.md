@@ -86,11 +86,12 @@
         <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <br/>
 
+
 ## 📖 Repository
 
-📑BackEnd Repository
-📑FrontEnd Repository
-📑AI Server Repository
+📑[BackEnd Repository](https://github.com/Merge-co/OIL-JANG_BE) <br/>
+📑[FrontEnd Repository](https://github.com/Merge-co/OIL-JANG_FE) <br/>
+
 <!--
 
 
