@@ -56,7 +56,7 @@
 > 하이미디어아카데미 자바풀스택 6기
 > 개발기간: 2023.11.11 ~ 2023.12.8
 					
-| ![IMG_0165](https://github.com/Merge-co/.github/assets/137472733/453e0d8d-ebb1-4af4-85cd-7fabe8a90591){: width="100px"} | ![IMG_0166](https://github.com/Merge-co/.github/assets/137472733/ff0240cb-0d68-4784-9a25-95062954d90b){: width="100px"} | ![IMG_0167](https://github.com/Merge-co/.github/assets/137472733/2ce10fa0-3849-42d3-acf3-ce0773735f77){: width="100px"} | ![IMG_0168](https://github.com/Merge-co/.github/assets/137472733/a7db652f-1c4f-4ecd-8d22-2ec11e7d7d11){: width="100px"} | ![IMG_8235](https://github.com/Merge-co/.github/assets/137472733/e89fce31-18b2-43ac-9544-adbe4d3ec947){: width="100px"} |
+| ![IMG_0165](https://github.com/Merge-co/.github/assets/137472733/453e0d8d-ebb1-4af4-85cd-7fabe8a90591){: width="100px"} | ![IMG_0166](https://github.com/Merge-co/.github/assets/137472733/ff0240cb-0d68-4784-9a25-95062954d90b){: width="100px"} | ![IMG_0167](https://github.com/Merge-co/.github/assets/137472733/2ce10fa0-3849-42d3-acf3-ce0773735f77){: width="100px"} | ![IMG_0168](https://github.com/Merge-co/.github/assets/137472733/a7db652f-1c4f-4ecd-8d22-2ec11e7d7d11){: width="100px"} | ![IMG_8235](https://github.com/Merge-co/.github/assets/137472733/e89fce31-18b2-43ac-9544-adbe4d3ec947){: width="100px"} | 
 | ----- | ------- | ------ | ------- | ------ |
 | 셀1   | 셀2     | 셀3    |         |        |
 | 셀4   | 셀5     | 셀6    |         |        |
