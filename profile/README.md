@@ -82,9 +82,10 @@
 > Server <br/>
         <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/> <br/>
 	
->  <br/>
+> Environment <br/>
         <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <br/>
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=Github&logoColor=white"/> <br/>
 > Communication <br/>
  	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> 
 
