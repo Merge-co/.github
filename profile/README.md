@@ -62,7 +62,8 @@
 | ----- | ------
 | <div align="center">김민범</div> | <div align="center">강한성</div> | <div align="center">이소망</div> | <div align="center">배승수</div> | <div align="center">이선호</div> |
 | <div align="center">중고상품</div> | <div align="center">중고상품 및 꾸러미</div> | <div align="center">쪽지 및 1:1 문의</div> | <div align="center">로그인 및 마이페이지</div> | <div align="center">신고관리 및 회원 제재</div> |
-> 
+
+
 </br>
 
 ## 🔧 기술 스택
