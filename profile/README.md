@@ -59,10 +59,9 @@
 > 개발기간: 2023.11.11 ~ 2023.12.8
 					
 | <div align="center">![IMG_0165](https://github.com/Merge-co/.github/assets/137472733/453e0d8d-ebb1-4af4-85cd-7fabe8a90591)</div> | <div align="center">![IMG_0166](https://github.com/Merge-co/.github/assets/137472733/ff0240cb-0d68-4784-9a25-95062954d90b)</div> | <div align="center">![IMG_0167](https://github.com/Merge-co/.github/assets/137472733/2ce10fa0-3849-42d3-acf3-ce0773735f77)</div> | <div align="center">![IMG_0168](https://github.com/Merge-co/.github/assets/137472733/a7db652f-1c4f-4ecd-8d22-2ec11e7d7d11)</div> | <div align="center">![IMG_0169](https://github.com/Merge-co/.github/assets/137472733/92f61002-1717-4f63-a7a9-369db05a1b40)</div> | 
-| ----- | ------
+| ----- | ------- | ------ | ------- | ------ |
 | <div align="center">김민범</div> | <div align="center">강한성</div> | <div align="center">이소망</div> | <div align="center">배승수</div> | <div align="center">이선호</div> |
 | <div align="center">중고상품</div> | <div align="center">중고상품 및 꾸러미</div> | <div align="center">쪽지 및 1:1 문의</div> | <div align="center">로그인 및 마이페이지</div> | <div align="center">신고관리 및 회원 제재</div> |
-
 
 </br>
 
