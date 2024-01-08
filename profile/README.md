@@ -1,7 +1,14 @@
-<div style="text-align: center;">
-# ⚖️Oiljang
+<div align="center">
+
+# ⚖️ Oiljang
+
 </div>
 
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Merge-co/.github/assets/137472733/1ddc1da6-1bb3-4a6a-bec1-10cb49afa57a" alt="LOGO-2.1">
+</p>
 
 
 
