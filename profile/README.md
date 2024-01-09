@@ -33,7 +33,7 @@
 > 꾸러미 기능으로 예산 설정을 하고 원하는 상품을 바구니에 담아 예산에 맞춰서 구매를 할 수 있으며,
 > 바구니에 담긴 상품을 판매자에게 일괄적으로 쪽지를 발송 할 수 있습니다.
 
-> 3️⃣ 중고 상품등록 및 마이페이지 상품 조회파
+> 3️⃣ 중고 상품등록 및 마이페이지 상품 조회
 >
 > 판매자가 중고 상품을 등록 할 수 있으며, 상품 사진은 최대 5개 까지 등록이 가능합니다.
 > 거래를 희망하는 장소를 등록 할 수 있으며, 무료 나눔 기능도 추가 하였습니다.
@@ -86,11 +86,11 @@
 > Environment <br/>
         <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-	<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=Github&logoColor=white"/> <br/>
+
  
 > Communication <br/>
  	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <br/>
-	
+	<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=Github&logoColor=white"/> <br/>
 
 
 ## 📖 Repository
