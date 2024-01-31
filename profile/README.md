@@ -8,7 +8,7 @@
   <img src="https://github.com/Merge-co/.github/assets/137472733/1ddc1da6-1bb3-4a6a-bec1-10cb49afa57a" alt="LOGO-2.1">
 </p>
 
- 🎤 **프로젝트, Oiljang**
+## 🎤 프로젝트, Oiljang
 
 > 꾸러미 기능을 통해 예산 설정하여 한눈에 구매하고 싶은 것을 예산에 맞춰 구매합니다.  
 > 꾸러미에 담긴 상품을 개인판매자에게 쪽지를 일괄 발송하여 구매 요청할 수 있습니다.  
